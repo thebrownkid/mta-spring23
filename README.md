@@ -1,4 +1,6 @@
-# Final Portfolio: DHUM72500 / DATA78000 (Methods of Text Analysis - Spring 2023)
+# Final Portfolio
+
+## DHUM72500 / DATA78000 (Methods of Text Analysis - Spring 2023)
 
 ## Muhammad Rakibul Islam
 
