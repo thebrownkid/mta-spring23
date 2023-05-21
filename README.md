@@ -26,6 +26,10 @@ Google Drive Notebooks Folder: [Google Drive Link](https://drive.google.com/driv
 11. [Week 12](https://colab.research.google.com/drive/1uLMelP2Kil8zEvV6vIFr-at-sX7VPPQN?usp=share_link)
 12. [Week 13](https://colab.research.google.com/drive/1fnehUiy73wtYIgIoon11AbHclHs2wENd?usp=share_link)
 
+### Final Paper PDF
+
+1. [Final Portfolio PDF](ADD LINK HERE ONCE READY)
+
 ### Response Blog Post (orinally posted on commons group then copy-pasted to course website)
 
 1. [Blog Post 1](https://femethods2023.commons.gc.cuny.edu/response-blog-post-week-8/)
@@ -42,8 +46,4 @@ Google Drive Notebooks Folder: [Google Drive Link](https://drive.google.com/driv
 ### Abstract Blog Post
 
 1. [Abstract Blog Post](https://femethods2023.commons.gc.cuny.edu/abstract-for-roundtable-3/)
-
-### Final Portfolio PDF
-
-1. [Final Portfolio PDF](ADD LINK HERE ONCE READY)
 
