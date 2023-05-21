@@ -2,6 +2,8 @@
 
 ## Muhammad Rakibul Islam
 
+Email: mislam1@gradcenter.cuny.edu (preferred) OR imrakibul@gmail.com (personal)
+
 ### Weekly Notebooks
 
 Annotations are mostly under "response" or "note" in markdown.
