@@ -1,6 +1,8 @@
-# Final Portfolio: Methods of Text Analysis
+# Final Portfolio: DHUM72500 / DATA78000 (Methods of Text Analysis - Spring 2023)
 
 ## Muhammad Rakibul Islam
+
+
 
 ### Weekly Notebooks (annotations are mostly under "response" or "note" in markdown)
 
