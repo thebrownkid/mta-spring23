@@ -2,9 +2,11 @@
 
 ## Muhammad Rakibul Islam
 
+### Weekly Notebooks
 
+Annotations are mostly under "response" or "note" in markdown.
 
-### Weekly Notebooks (annotations are mostly under "response" or "note" in markdown)
+In notebook for Week 10 I made observations and notes on the code itself.
 
 Google Drive Notebooks Folder: [Google Drive Link](https://drive.google.com/drive/folders/1Zwd9CbQGXxqXSrj_BLxAVSwQv31TZo7B?usp=share_link)
 
