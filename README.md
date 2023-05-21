@@ -37,7 +37,7 @@ Google Drive Notebooks Folder: [Google Drive Link](https://drive.google.com/driv
 
 ### Abstract Blog Post
 
-1. [Book Report Blog Post](https://femethods2023.commons.gc.cuny.edu/abstract-for-roundtable-3/)
+1. [Abstract Blog Post](https://femethods2023.commons.gc.cuny.edu/abstract-for-roundtable-3/)
 
 ### Final Portfolio PDF
 
