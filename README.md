@@ -28,7 +28,7 @@ Google Drive Notebooks Folder: [Google Drive Link](https://drive.google.com/driv
 
 ### Final Paper PDF
 
-1. [Final Portfolio PDF](ADD LINK HERE ONCE READY)
+1. [Final Paper PDF](https://github.com/therealrakib/mta-spring23/blob/main/Final-Paper.pdf)
 
 ### Response Blog Post (orinally posted on commons group then copy-pasted to course website)
 
