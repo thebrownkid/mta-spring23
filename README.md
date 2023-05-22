@@ -6,6 +6,10 @@
 
 Email: mislam1@gradcenter.cuny.edu (preferred) OR imrakibul@gmail.com (personal)
 
+### Final Paper PDF
+
+1. [Final Paper PDF](https://github.com/therealrakib/mta-spring23/blob/main/Final-Paper.pdf) (References page does not show unless clicked on "More Pages")
+
 ### Weekly Notebooks
 
 Annotations are mostly under "response" or "note" in markdown.
@@ -25,10 +29,6 @@ Google Drive Notebooks Folder: [Google Drive Link](https://drive.google.com/driv
 10. [Week 11](https://colab.research.google.com/drive/1TIRxfYhGbviT2GFt65f85p6_uTWXNV0h?usp=share_link)
 11. [Week 12](https://colab.research.google.com/drive/1uLMelP2Kil8zEvV6vIFr-at-sX7VPPQN?usp=share_link)
 12. [Week 13](https://colab.research.google.com/drive/1fnehUiy73wtYIgIoon11AbHclHs2wENd?usp=share_link)
-
-### Final Paper PDF
-
-1. [Final Paper PDF](https://github.com/therealrakib/mta-spring23/blob/main/Final-Paper.pdf) (References page does not show unless clicked on "More Pages")
 
 ### Response Blog Post (orinally posted on commons group then copy-pasted to course website)
 
