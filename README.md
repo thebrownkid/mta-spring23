@@ -4,7 +4,7 @@
 
 ## DHUM72500 / DATA78000 (Methods of Text Analysis - Spring 2023)
 
-Email: mislam1@gradcenter.cuny.edu (preferred) OR imrakibul@gmail.com (personal)
+**Email**: mislam1@gradcenter.cuny.edu (preferred) OR imrakibul@gmail.com (personal)
 
 ### Final Paper PDF
 
